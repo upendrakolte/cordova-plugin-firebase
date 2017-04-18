@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "286444828567",
+    "firebase_url": "https://emanager-5db86.firebaseio.com",
+    "project_id": "emanager-5db86",
+    "storage_bucket": "emanager-5db86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286444828567:android:bb206810cbc6fdf5",
+        "android_client_info": {
+          "package_name": "com.emanager.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286444828567-e3mbrr57irmv32miimc1nfqdt6q5n69r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ttmiderV0Zn6H79rpz5mTQQlFRe1itA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
